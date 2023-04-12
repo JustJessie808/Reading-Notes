@@ -3,10 +3,10 @@
    Getting Started
 
      * Compose a short poem describing how HTTP sends data between computers.
-        A Haiku on HTTP
-        A client sends stuff
-        The server receives the stuff
-        The server sends back
+          A Haiku on HTTP
+          A client sends stuff
+          The server receives the stuff
+          The server sends back
   * Describe how HTML, CSS, and JS files are “parsed” in the browser.
       - HTML structures the website
       - CSS decides the style of the context
